@@ -3,7 +3,7 @@
 > Hello, me from the future (and anyone else who comes here). This is an experiment. I want to see how far Python alone can go when it comes to game development. I chose Adventure Land because I think it's a great project. To be honest, I don't know how far I'll get or if I'll end up with something playable.
 
 
-So, basically, this is a Python reimplementation of [Adventure Land](https://adventure.land/), an online multiplayer RPG game originally built with Arepy. My goal is to recreate the core mechanics and gameplay using Python, exploring its capabilities in game development.
+So, basically, this is a Python reimplementation of [Adventure Land](https://adventure.land/), an online multiplayer RPG game originally built with Python and Javascript. My goal is to recreate the core mechanics and gameplay using Python with arepy, exploring its capabilities in game development.
 
 Arepy is kind of a framework/game engine for building games with Python, made by me. You can check it out [here](https://github.com/Scr44gr/arepy).
 
